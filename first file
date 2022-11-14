@@ -1,0 +1,4 @@
+name = "Harisankar"
+branch= "Bengaluru"
+work= "Deloitte"
+print ("Hi my name is {} and I am working at {} {} office .format(name,work,city))
